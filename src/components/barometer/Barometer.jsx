@@ -34,11 +34,11 @@ function polarToCartesian(cx, cy, r, angleDeg) {
 }
 
 const TICKS = [
-  { value: -100, label: '100' },
-  { value: -80, label: '80' },
-  { value: -60, label: '60' },
-  { value: -40, label: '40' },
-  { value: -20, label: '20' },
+  { value: -100, label: '-100' },
+  { value: -80, label: '-80' },
+  { value: -60, label: '-60' },
+  { value: -40, label: '-40' },
+  { value: -20, label: '-20' },
   { value: 0, label: '0' },
   { value: 20, label: '20' },
   { value: 40, label: '40' },
