@@ -1,2 +1,1 @@
-# arch-control-gauge
-Architect Guidance Barometer
+# Architect Guidance Barometer
